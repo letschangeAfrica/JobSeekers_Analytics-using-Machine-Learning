@@ -55,3 +55,13 @@ An ML model that:
 - Jupyter Notebooks
 
 ## 📂 Repository Structure
+
+/project-root
+│── /data
+│ └── JobSeekers_Analytics.csv # Raw dataset
+│── /notebooks
+│ └── JobSeekers_Analytics.ipynb # Main analysis notebook
+│── /docs
+│ └── ProgressLog.md # Development timeline
+│── README.md # Project overview
+└── requirements.txt # Dependencies
