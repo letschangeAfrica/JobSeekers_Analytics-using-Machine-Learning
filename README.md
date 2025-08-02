@@ -1,6 +1,6 @@
 # JobSeekers Analytics using Machine Learning
 
-![Project Banner](https://via.placeholder.com/1200x400?text=JobSeekers+Analytics+ML+Project)
+![Project Banner](images/img1.PNG)
 
 A machine learning project to streamline recruitment processes by predicting application approval status based on candidate profiles.
 
@@ -18,11 +18,15 @@ Built using the **CRISP-ML(Q)** methodology for maximum transparency and reprodu
 **Problem:**  
 Hiring managers are overwhelmed with hundreds of applications while quality candidates get missed in manual screening.
 
+![Project Banner](images/img2.PNG)
+
 **Solution:**  
 An ML model that:
 - Achieves ≥85% accuracy in predicting application status
 - Reduces screening costs by 20%
 - Provides explainable decisions for HR teams
+
+![Project Banner](images/img3.PNG)
 
 ## 📊 Dataset
 
@@ -46,6 +50,8 @@ An ML model that:
 - Feature engineering
 - Model evaluation
 - Explainable AI
+
+![Project Banner](images/img4.PNG)
 
 **Tech Stack:**
 - Python
